@@ -8,3 +8,7 @@ https://drive.google.com/file/d/1JeRXjXJQORaauL_I0qdIGZY4ok5Ilpsx/view?usp=shari
 https://drive.google.com/file/d/1uj7iBv6ykldlcJx3QAuvbwW1mrC4Kwr2/view?usp=sharing
 
 https://colab.research.google.com
+
+Week 3
+
+https://studio.azureml.net/
