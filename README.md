@@ -13,5 +13,10 @@ Week 3
 
 https://studio.azureml.net/
 
-
 https://drive.google.com/file/d/1W9IOR1cwNBqt2uxdTKxIcgOk_KAUUyA2/view?usp=sharing
+
+Week 5
+
+https://www.tensorflow.org/
+
+https://keras.io/
