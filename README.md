@@ -20,3 +20,7 @@ Week 5
 https://www.tensorflow.org/
 
 https://keras.io/
+
+http://gorae.asuscomm.com:8888
+
+(비밀번호 gorae)
