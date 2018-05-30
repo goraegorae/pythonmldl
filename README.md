@@ -33,3 +33,8 @@ https://keras.io/
 http://gorae.asuscomm.com:8888
 
 (비밀번호 gorae)
+
+Week 7
+
+https://brunch.co.kr/@chris-song/9
+
