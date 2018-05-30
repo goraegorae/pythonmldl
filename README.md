@@ -36,5 +36,7 @@ http://gorae.asuscomm.com:8888
 
 Week 7
 
+https://deeplearning4j.org/kr/word2vec
+
 https://brunch.co.kr/@chris-song/9
 
