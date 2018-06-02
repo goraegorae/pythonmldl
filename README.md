@@ -11,6 +11,7 @@ https://colab.research.google.com
 
 https://drive.google.com/file/d/1J8I53PALIMK9ZHQOLH40wWHpFScfaI4F/view?usp=sharing
 
+https://docs.google.com/forms/d/e/1FAIpQLSc9BEPa6q7jMM1riifNp4kzoeErQ-AX9y5iDC7Ms2raIXvDrg/viewform?usp=sf_link
 
 Week 2 자료
 
