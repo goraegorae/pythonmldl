@@ -7,7 +7,9 @@ https://www.python.org/
 
 https://colab.research.google.com
 
+용산구 Week 2 자료
 
+https://drive.google.com/file/d/1J8I53PALIMK9ZHQOLH40wWHpFScfaI4F/view?usp=sharing
 
 
 Week 2 자료
