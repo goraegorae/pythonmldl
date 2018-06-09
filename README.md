@@ -1,5 +1,9 @@
 # pythonmldl
-파이썬으로 배우는 머신러닝, 딥러닝 수업을 위한 저장소입니다.
+파이썬으로 배우는 머신러닝, 딥러닝 수업을 위한 저장소입니다
+
+용산구 프로젝트 설문
+
+https://docs.google.com/forms/d/e/1FAIpQLSeESpFyyexYtH6Q-gwaFxcvUcJcAAwP14-Mo6y1gJdIcxrNBw/viewform?usp=sf_link
 
 용산구 Week 1 자료
 
